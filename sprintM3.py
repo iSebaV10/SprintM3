@@ -35,7 +35,7 @@ def obtener_numero_telefonico(usuario):
             return telefono
         print("El número telefónico debe tener 8 dígitos. Inténtelo nuevamente.")
 
-#Se genera nueva lista para guardar los usuarios, pass y telefono
+#Se genera un diccionario para guardar los usuarios, pass y telefono
 cuentas = {}
 
 #Guardo pass y telefono en la lista cuenta
